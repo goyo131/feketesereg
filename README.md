@@ -1,2 +1,3 @@
 itt vagytok?
 aha
+nem
